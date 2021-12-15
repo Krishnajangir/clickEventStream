@@ -25,3 +25,11 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Info about click stream analysis.
+
+This project is the simple example of click event stream analysis. This technique is useful for rela time data monitoring of angular app.Here is the useful links from there you can get the idea of this and start to learning this.
+For this we need vs code for angular app initialization , and ubuntu environment for divolte configuration.
+
+https://imply.io/post/clickstream-analysis-open-source-divolte-kafka-druid
+http://divolte-releases.s3-website-eu-west-1.amazonaws.com/divolte-collector/0.9.0/userdoc/html/configuration.html
